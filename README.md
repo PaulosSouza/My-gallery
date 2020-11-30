@@ -6,12 +6,12 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://ph-my-team-page.netlify.app">
-      http://ph-my-team-page.netlify.app/
+    <a href="http://ph-my-team-page.netlify.app/">
+      Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
-      https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+      Challenge
     </a>
   </h3>
 </div>
