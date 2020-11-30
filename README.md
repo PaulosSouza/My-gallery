@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="http://ph-my-team-page.netlify.app/">
+    <a href="https://ph-my-gallery.netlify.app/">
       Solution
     </a>
     <span> | </span>
